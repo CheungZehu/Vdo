@@ -11,9 +11,11 @@
 		<mu-list>
 			<mu-sub-header>访问Github</mu-sub-header>
 			<mu-paper>
+				<a href="https://github.com/CheungZehu" target="_blank">
 				<mu-list-item title="Github">
 				<mu-icon slot="left" value="link" />
 				</mu-list-item>
+				</a>
 			</mu-paper>
 			<mu-sub-header>联系我</mu-sub-header>
 			<mu-paper>

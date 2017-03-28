@@ -9,7 +9,7 @@
 							</div>
 						</div>
 						<div class="paper-text">
-							<p>{{subject.title}}{{subject.id}}</p>
+							<p>{{subject.title}}</p>
 							<p class="star-box">
 								<span class="paper-star" v-if="subject.rating.average > 0">
 									<mu-icon class='star-icon' value='star' v-for="n in ratingStar(subject.rating.average).star" :key="n.id" />
