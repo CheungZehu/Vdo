@@ -1,21 +1,21 @@
-# my-project
+# 微豆
 
 > A Vue.js project
 
-## Build Setup
+技术栈 vue + vue-router2 + vuex + axios + Mese-ui
+
+## 快速使用
 
 ``` bash
-# install dependencies
+# 克隆项目到本地
+git clone https://github.com/CheungZehu/Vdo.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 在 localhost:8080 启动项目
 npm run dev
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
