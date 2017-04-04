@@ -18,4 +18,16 @@ npm run dev
 
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 项目截图
+
+![Image](static/tab.jpg)
+
+![Image](static/search.jpg)
+
+![Image](static/detail.jpg)
+
+
+
+### 感谢&参考学习
+
+(https://github.com/RalfZhang/Vdo)
